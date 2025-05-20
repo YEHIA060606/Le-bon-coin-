@@ -1,2 +1,2 @@
-# Le-bon-coin-
-page web comme celle du bon coin 
+# optique en ligne
+page web comme de boutique en ligne 
