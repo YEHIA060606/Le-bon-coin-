@@ -1,2 +1,2 @@
 # optique en ligne
-page web comme de boutique en ligne 
+boutique d'optique en ligne 
